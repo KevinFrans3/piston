@@ -38,3 +38,6 @@ version = "0.9.0"
 [dependencies.pistoncore-event_loop]
 path = "src/event_loop"
 version = "0.10.0"
+
+[dependencies]
+piston_window = "0.15.0"
